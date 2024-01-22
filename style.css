@@ -1,0 +1,19 @@
+*{
+
+}
+
+
+.card .card-body .card-title h5{
+    text-align: center;
+    margin-top: 30px;
+    font-weight: 600;
+    ;
+  }
+
+  .card .card-body .card-subtitle h6{
+    font-size: 25px;
+    font-weight: 600;
+  }
+  .cars .card-body p .card-text{
+    font-size: 15px;
+  }
